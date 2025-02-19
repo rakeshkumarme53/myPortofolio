@@ -1,9 +1,9 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { Link } from "react-scroll"
 import { motion } from "framer-motion"
 import ThemeToggle from "./ThemeToggle"
-import Link from "next/link"
 
 const menuItems = ["Home", "About", "Skills", "Experience", "Education", "Projects", "Contact"]
 
@@ -60,8 +60,12 @@ export default function Header() {
             {menuItems.map((item) => (
               <Link
                 key={item}
-                href={`#${item.toLowerCase()}`}
-                className={`text-lg font-medium transition-colors relative ${
+                to={item.toLowerCase()}
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                className={`text-lg font-medium transition-colors relative cursor-pointer ${
                   activeSection === item.toLowerCase()
                     ? "text-blue-600 dark:text-blue-400"
                     : "text-gray-800 dark:text-gray-200"

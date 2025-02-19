@@ -1,0 +1,23 @@
+rakesh-portfolio/
+├── app/
+│   ├── components/
+│   │   ├── Header.tsx
+│   │   ├── Home.tsx
+│   │   ├── About.tsx
+│   │   ├── Skills.tsx
+│   │   ├── Experience.tsx
+│   │   ├── Education.tsx
+│   │   ├── Projects.tsx
+│   │   ├── Contact.tsx
+│   │   ├── Footer.tsx
+│   │   ├── ThemeToggle.tsx
+│   │   └── DownloadResume.tsx
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+├── public/
+│   ├── Rakesh_Kumar_Resume.pdf
+│   └── favicon.ico
+├── package.json
+└── tsconfig.json
+
