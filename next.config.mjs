@@ -6,9 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  turbopack: {
-    root: '.',
-  },
+  turbopack: {},
 }
 
 export default nextConfig
