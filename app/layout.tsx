@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Rakesh Kumar - Full Stack Developer",
   description: "Portfolio of Rakesh Kumar, a Full Stack Developer with expertise in MERN stack, .NET Core, and more.",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
@@ -28,6 +28,3 @@ export default function RootLayout({
   )
 }
 
-
-
-import './globals.css'
