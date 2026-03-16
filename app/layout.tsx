@@ -1,10 +1,6 @@
-import type React from "react"
 import type { Metadata } from "next"
-import { Inter } from "next/font/google"
 import "./globals.css"
-import { ThemeProvider } from "next-themes"
-
-const inter = Inter({ subsets: ["latin"] })
+import { Providers } from "./providers"
 
 export const metadata: Metadata = {
   title: "Rakesh Kumar - Full Stack Developer",
@@ -19,10 +15,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={inter.className}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          {children}
-        </ThemeProvider>
+      <body>
+        <Providers>{children}</Providers>
       </body>
     </html>
   )
