@@ -3,22 +3,28 @@
 import { motion } from "framer-motion"
 
 const skills = [
-  "JavaScript",
-  "React.js",
-  "Node.js",
-  "Express.js",
-  "MongoDB",
-  "MySQL",
-  "SQL Server",
-  "ASP.NET Core",
   "C#",
+  "JavaScript (ES6+)",
   "Python",
+  "React.js",
+  "Angular",
   "HTML5",
   "CSS3",
-  "Git",
-  "RESTful APIs",
+  "ASP.NET Core",
+  ".NET MVC",
+  "Node.js",
+  "Express.js",
+  "SQL Server",
+  "MySQL",
+  "MongoDB",
+  "JWT Authentication",
+  "REST APIs",
+  "Azure",
+  "AWS",
+  "Git/GitHub",
+  "RBAC",
   "Unit Testing",
-  "Agile Methodologies",
+  "Integration Testing",
 ]
 
 export default function Skills() {
@@ -43,4 +49,3 @@ export default function Skills() {
     </section>
   )
 }
-

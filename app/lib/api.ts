@@ -13,4 +13,3 @@ export const sendContactForm = async (data: { name: string; email: string; messa
 
   return response.json()
 }
-

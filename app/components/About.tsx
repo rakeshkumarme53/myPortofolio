@@ -4,13 +4,11 @@ export default function About() {
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-8 text-gray-900 dark:text-white">About Me</h2>
         <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto text-center">
-          With over 2.5 years of hands-on experience as a Full Stack Developer, I specialize in JavaScript, React.js,
-          Node.js, MySQL, MSSQL, .NET Core, and .NET MVC. I'm passionate about leveraging my skills to contribute to
-          innovative projects and continuously enhance my capabilities. My goal is to be a key member of a team that
-          values growth, creativity, and excellence in software development.
+          Product-focused Full Stack Engineer with 3.5+ years of experience designing and building scalable fintech, enterprise SaaS, and AI-driven web platforms. 
+          Expertise in ASP.NET Core, .NET MVC, React.js, Node.js, Angular, SQL Server, and system performance optimization. Proven ability to deliver secure financial workflows, 
+          role-based architectures, high-volume transaction systems, and real-time dashboards. Strong ownership mindset with experience working across the full development lifecycle.
         </p>
       </div>
     </section>
   )
 }
-

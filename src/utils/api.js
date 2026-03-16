@@ -13,4 +13,3 @@ export const sendContactForm = async (data) => {
     }, 1000)
   })
 }
-
