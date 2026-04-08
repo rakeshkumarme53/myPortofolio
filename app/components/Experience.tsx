@@ -1,25 +1,29 @@
 export default function Experience() {
   const experiences = [
     {
-      position: "Full Stack Software Engineer",
+      position: ".NET Developer",
       company: "Sourceget Pvt Ltd, Surat",
-      duration: "June 2025 – Present",
+      duration: "Jun 2025 – Present",
       responsibilities: [
-        "Developing scalable enterprise modules using ASP.NET Core and Angular.",
-        "Designing optimized REST APIs supporting high-volume data processing workflows.",
-        "Enhancing application performance through query optimization and efficient state handling.",
-        "Collaborating in agile teams to deliver production-ready features with high reliability.",
+        "Develop and maintain enterprise web applications using ASP.NET Core MVC and .NET-based backend services.",
+        "Design and expose RESTful Web APIs consumed by Angular.js and React.js front-end modules, ensuring clean separation of concerns.",
+        "Participate in sprint planning, architecture reviews, and peer code reviews to uphold quality and delivery standards.",
+        "Collaborate with product teams to translate business requirements into scalable .NET solutions.",
       ],
     },
     {
-      position: "Full Stack Software Engineer",
+      position: ".NET Developer",
       company: "Acompworld Techno Soft Pvt Ltd, Bhopal",
       duration: "Oct 2022 – May 2025",
       responsibilities: [
-        "Built full-stack applications using MERN stack and .NET Core MVC architecture.",
-        "Improved database performance through indexing and query tuning, reducing response latency significantly.",
-        "Designed secure authentication systems and role-based dashboards.",
-        "Contributed to technical design discussions, code reviews, and mentoring initiatives.",
+        "Architected and delivered 7+ production applications on ASP.NET Core MVC and Web API across fintech, healthcare, HCM, and EdTech verticals.",
+        "Built Oron Trade — a live digital payment and client management platform — with secure REST APIs, JWT authentication, RBAC, and complete financial transaction workflows.",
+        "Designed and optimized complex MS SQL and MySQL schemas including stored procedures, indexes, and joins — improving query performance across high-volume data operations.",
+        "Implemented Entity Framework Core for data access layers, ensuring clean ORM patterns and maintainable code.",
+        "Developed end-to-end .NET features: KYC verification workflows, deposit/withdrawal approval pipelines, role-specific dashboards, CSV/Excel exports, and email/SMS notification systems.",
+        "Built React.js front-ends integrated with .NET Web APIs, enabling full feature ownership from API design to UI delivery.",
+        "Deployed and configured .NET applications on IIS with proper environment management and logging.",
+        "Conducted code reviews and mentored junior developers on .NET best practices, SOLID principles, and clean architecture.",
       ],
     },
   ]

@@ -24,13 +24,22 @@ export default function Home() {
               I'm <span className="text-blue-600">Rakesh Kumar</span>
             </h1>
             <motion.h2
-              className="text-xl sm:text-2xl md:text-3xl mb-6"
+              className="text-xl sm:text-2xl md:text-3xl mb-6 font-semibold"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3 }}
             >
-              I Am Into <span className="text-red-600">Full Stack Development</span>
+              <span className="text-blue-600">.NET Developer</span> <span className="text-gray-600 dark:text-gray-400">&</span> <span className="text-red-600">Enterprise Solutions Architect</span>
             </motion.h2>
+            <motion.p
+              className="text-lg text-gray-700 dark:text-gray-300 mb-6 max-w-2xl"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.5 }}
+            >
+              3.5+ years building robust, scalable web applications with ASP.NET Core, Web APIs, and React.js. 
+              Specialized in fintech, healthcare, and enterprise SaaS solutions.
+            </motion.p>
 
             <motion.a
               href="/Rakesh_Kumar_Resume.pdf"

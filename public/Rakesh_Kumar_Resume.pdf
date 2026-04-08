@@ -1,96 +1,91 @@
 RAKESH KUMAR 
- rakeshkumarme53@gmail.com |  6299809015 
-
- https://www.linkedin.com/in/rakesh963150 
+.NET Developer  |  ASP.NET Core  |  MVC  |  Web API  |  React.js  |  3.5+ Years Experience 
+rakeshkumarme53@gmail.com  |  +91-6299809015  |  linkedin.com/in/rakesh963150 
  
 PROFESSIONAL SUMMARY 
-Product-focused Full Stack Engineer with 3.5+ years of experience designing and building scalable 
-fintech, enterprise SaaS, and AI-driven web platforms. 
-Expertise in ASP.NET Core, .NET MVC, React.js, Node.js, Angular, SQL Server, and system 
-performance optimization. Proven ability to deliver secure financial workflows, role-based 
-architectures, high-volume transaction systems, and real-time dashboards. 
-Strong ownership mindset with experience working across the full development lifecycle — from 
-requirement analysis and architecture design to deployment and performance tuning. 
  
+Dedicated .NET Developer with 3.5+ years of experience building robust, scalable web applications using 
+ASP.NET Core, ASP.NET MVC, and Web API. Skilled in designing RESTful APIs, implementing JWT-based 
+authentication, RBAC, and integrating Entity Framework with MS SQL and MySQL. Experienced in building 
+React.js front-ends that consume .NET APIs — enabling end-to-end ownership of features. Delivered production-
+grade solutions across fintech, healthcare, HCM, and EdTech domains. 
 TECHNICAL SKILLS 
-Languages: C#, JavaScript (ES6+), Python, C 
-Frontend: React.js, Angular, HTML5, CSS3, Bootstrap 
-Backend: ASP.NET Core, .NET MVC, Node.js, Express.js, REST API Development 
-Databases: SQL Server, MySQL, MongoDB 
-Architecture & Security: JWT Authentication, RBAC, Session Management, API Security 
-Cloud & Tools: Git, GitHub, Azure, AWS 
-Testing: Unit Testing, Integration Testing, Debugging & Performance Optimization 
  
+.NET Stack: 
+ASP.NET Core, ASP.NET MVC 4.7, Web API, Entity Framework Core, 
+LINQ, C# 
+Architecture: 
+RESTful API Design, MVC Pattern, RBAC, JWT Authentication, Session 
+Management 
+Databases: 
+MS SQL Server, MySQL, MongoDB — stored procedures, query 
+optimization, schema design 
+Frontend: 
+React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, jQuery, DataTables 
+Tools: 
+Git, GitHub, IIS, Visual Studio, Postman, AWS (deployment) 
+Practices: 
+SOLID Principles, Code Reviews, Agile/Scrum, CI/CD 
 PROFESSIONAL EXPERIENCE 
-Full Stack Software Engineer 
-Sourceget Pvt Ltd, Surat 
-June 2025 – Present 
-● Developing scalable enterprise modules using ASP.NET Core and Angular. 
-● Designing optimized REST APIs supporting high-volume data processing workflows. 
-● Enhancing application performance through query optimization and efficient state handling. 
+ 
+.NET Developer 
+Sourceget Pvt Ltd Jun 2025 – Present 
+• Develop and maintain enterprise web applications using ASP.NET Core MVC and .NET-based backend 
+services. 
+• Design and expose RESTful Web APIs consumed by Angular.js and React.js front-end modules, ensuring 
+clean separation of concerns. 
+• Participate in sprint planning, architecture reviews, and peer code reviews to uphold quality and delivery 
+standards. 
+• Collaborate with product teams to translate business requirements into scalable .NET solutions. 
+.NET Developer 
+Acompworld Techno Soft Pvt Ltd Oct 2022 – May 2025 
+• Architected and delivered 7+ production applications on ASP.NET Core MVC and Web API across fintech, 
+healthcare, HCM, and EdTech verticals. 
+• Built Oron Trade — a live digital payment and client management platform — with secure REST APIs, JWT 
+authentication, RBAC, and complete financial transaction workflows. 
+• Designed and optimized complex MS SQL and MySQL schemas including stored procedures, indexes, and 
+joins — improving query performance across high-volume data operations. 
+• Implemented Entity Framework Core for data access layers, ensuring clean ORM patterns and 
+maintainable code. 
+• Developed end-to-end .NET features: KYC verification workflows, deposit/withdrawal approval pipelines, 
+role-specific dashboards, CSV/Excel exports, and email/SMS notification systems. 
 
-● Collaborating in agile teams to deliver production-ready features with high reliability. 
+• Built React.js front-ends integrated with .NET Web APIs, enabling full feature ownership from API design to 
+UI delivery. 
+• Deployed and configured .NET applications on IIS with proper environment management and logging. 
+• Conducted code reviews and mentored junior developers on .NET best practices, SOLID principles, and 
+clean architecture. 
+KEY PROJECTS 
  
-Full Stack Software Engineer 
-Acompworld Techno Soft Pvt Ltd, Bhopal 
-Oct 2022 – May 2025 
-● Built full-stack applications using MERN stack and .NET Core MVC architecture. 
-● Improved database performance through indexing and query tuning, reducing response latency 
-significantly. 
-● Designed secure authentication systems and role-based dashboards. 
-● Contributed to technical design discussions, code reviews, and mentoring initiatives. 
- 
-PRODUCT & ENTERPRISE PROJECT EXPERIENCE 
-CRM & Trading Operations Platform (Orontrade Ecosystem) 
-Tech: ASP.NET Core, .NET MVC, SQL Server 
-Developed core modules for a financial CRM platform supporting customer onboarding, trading 
-operations management, and transaction monitoring. 
-● Implemented secure Deposit & Withdrawal lifecycle workflows with approval and validation 
-layers. 
-● Built real-time transaction history dashboards with filtering, export, and pagination. 
-● Developed KYC verification, withdrawal address management, and account activity 
-tracking modules. 
-● Enabled role-based access control for admins, managers, and customers to manage 
-operational visibility. 
-● Strengthened platform security through JWT authentication and input validation mechanisms. 
- 
-ORON Payment Administration Platform 
-Tech: .NET MVC, SQL Server 
-Worked on backend modules for a payment administration system enabling multi-channel transaction 
-management across UPI, bank transfer, crypto-based settlements, and local exchange processing. 
-● Developed validation workflows ensuring secure and compliant transaction execution. 
-
-● Built internal admin tools for monitoring payment requests and processing approvals. 
-● Improved transaction reliability and reduced failure scenarios via backend logic enhancements. 
- 
-Workpod – Human Capital Management Platform 
-Tech: .NET Core MVC, REST APIs 
-Contributed to enterprise hiring management platform used by global clients to manage applicant 
-tracking, employee lifecycle operations, and workforce analytics. 
-● Developed unified dashboards to manage applicants, employees, and client interactions. 
-● Implemented workflow automation features improving recruitment efficiency. 
-● Built secure API integrations supporting scalable hiring operations. 
- 
-Uniteam – AI Powered Task Management Tool 
-Tech: .NET Core, React.js, SQL Server 
-● Built AI-assisted task scheduling and productivity features. 
-● Implemented meeting scheduling modules and real-time collaboration capabilities. 
-● Supported secure cloud deployment with encryption and performance monitoring. 
- 
-Learnet – Mentorship Booking Platform 
-Tech: MERN Stack 
-● Developed mentor session booking system with dynamic pricing support. 
-● Built responsive UI and optimized backend services for user scalability. 
- 
+Oron Payments – Digital Payment & Wallet Platform Sep 2025 – Present 
+Live: https://payments.orontrade.com 
+• Live fintech platform for wallet management and payment processing. Built secure Web APIs using 
+ASP.NET Core, integrated Entity Framework for DB operations, and deployed on IIS with full transaction 
+audit logging. 
+Tech Stack: ASP.NET MVC 4.7, ASP.NET Core Web API, Entity Framework, MS SQL, JavaScript, Bootstrap 
+Oron Trade – Client Management Portal Jun 2025 – Sep 2025 
+Live: https://my.orontrade.com 
+• Enterprise client portal with KYC onboarding, deposit/withdrawal approval workflows, RBAC for 
+admin/manager/customer roles, paginated transaction history, CSV/Excel export, and JWT-secured .NET 
+APIs. 
+Tech Stack: ASP.NET Core MVC, Web API, Entity Framework, MS SQL, Bootstrap 
+Uniteam – AI-Powered Task Management May 2024 – Jun 2025 
+Live: https://uniteam.ai 
+• Enterprise SaaS with .NET Core REST APIs powering AI-assisted task creation, meeting scheduling, end-
+to-end encryption, and AWS-hosted deployment. React.js frontend consumes .NET APIs. 
+Tech Stack: ASP.NET Core Web API, MS SQL, React.js, AWS 
+Workpod – Human Capital Management 360° Confidential (US Client) 
+Live: https://hiringglass.com 
+• Enterprise HCM platform for a US client. Built ASP.NET Core MVC frontend and Web API backend to 
+manage multi-company workforce lifecycle — recruiting, onboarding, performance management, and client 
+portals. 
+Tech Stack: ASP.NET Core MVC, ASP.NET Core Web API, MS SQL 
+Learnet – Professional Learning Network Oct 2022 – Feb 2023 
+Live: https://learnet.ai 
+• Mentor-learner booking platform. Built .NET Core backend APIs for session booking, flexible pricing, and 
+Zoom API integration. React.js frontend for mentor and learner dashboards. 
+Tech Stack: ASP.NET Core Web API, MySQL, React.js, Bootstrap 
 EDUCATION 
-B.Tech – Computer Science Engineering 
-Radharaman Institute of Technology & Science, Bhopal 
-CGPA: 8.69 | 2019 – 2023 
  
-
-ADDITIONAL INFORMATION 
-Languages: English, Hindi 
-Interests: Cricket, Cooking, Music 
- 
-Declaration: 
-I hereby declare that the information provided above is accurate to the best of my knowledge.
+B.Tech – Computer Science Engineering Jun 2019 – May 2023 
+Radharaman Institute of Technology and Science, Bhopal  |  CGPA: 8.69 / 10
