@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { FileDown } from "lucide-react"
+import { Download } from "lucide-react"
 
 export default function DownloadResume() {
   return (
@@ -18,10 +18,9 @@ export default function DownloadResume() {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
       >
-        <FileDown size={20} />
+        <Download className="w-5 h-5" />
         <span className="hidden sm:inline">Download Resume</span>
       </motion.a>
     </motion.div>
   )
 }
-

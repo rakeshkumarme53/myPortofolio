@@ -1,2 +1,91 @@
-[Content of your resume as provided above, formatted as a PDF]
+RAKESH KUMAR 
+.NET Developer  |  ASP.NET Core  |  MVC  |  Web API  |  React.js  |  3.5+ Years Experience 
+rakeshkumarme53@gmail.com  |  +91-6299809015  |  linkedin.com/in/rakesh963150 
+ 
+PROFESSIONAL SUMMARY 
+ 
+Dedicated .NET Developer with 3.5+ years of experience building robust, scalable web applications using 
+ASP.NET Core, ASP.NET MVC, and Web API. Skilled in designing RESTful APIs, implementing JWT-based 
+authentication, RBAC, and integrating Entity Framework with MS SQL and MySQL. Experienced in building 
+React.js front-ends that consume .NET APIs — enabling end-to-end ownership of features. Delivered production-
+grade solutions across fintech, healthcare, HCM, and EdTech domains. 
+TECHNICAL SKILLS 
+ 
+.NET Stack: 
+ASP.NET Core, ASP.NET MVC 4.7, Web API, Entity Framework Core, 
+LINQ, C# 
+Architecture: 
+RESTful API Design, MVC Pattern, RBAC, JWT Authentication, Session 
+Management 
+Databases: 
+MS SQL Server, MySQL, MongoDB — stored procedures, query 
+optimization, schema design 
+Frontend: 
+React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, jQuery, DataTables 
+Tools: 
+Git, GitHub, IIS, Visual Studio, Postman, AWS (deployment) 
+Practices: 
+SOLID Principles, Code Reviews, Agile/Scrum, CI/CD 
+PROFESSIONAL EXPERIENCE 
+ 
+.NET Developer 
+Sourceget Pvt Ltd Jun 2025 – Present 
+• Develop and maintain enterprise web applications using ASP.NET Core MVC and .NET-based backend 
+services. 
+• Design and expose RESTful Web APIs consumed by Angular.js and React.js front-end modules, ensuring 
+clean separation of concerns. 
+• Participate in sprint planning, architecture reviews, and peer code reviews to uphold quality and delivery 
+standards. 
+• Collaborate with product teams to translate business requirements into scalable .NET solutions. 
+.NET Developer 
+Acompworld Techno Soft Pvt Ltd Oct 2022 – May 2025 
+• Architected and delivered 7+ production applications on ASP.NET Core MVC and Web API across fintech, 
+healthcare, HCM, and EdTech verticals. 
+• Built Oron Trade — a live digital payment and client management platform — with secure REST APIs, JWT 
+authentication, RBAC, and complete financial transaction workflows. 
+• Designed and optimized complex MS SQL and MySQL schemas including stored procedures, indexes, and 
+joins — improving query performance across high-volume data operations. 
+• Implemented Entity Framework Core for data access layers, ensuring clean ORM patterns and 
+maintainable code. 
+• Developed end-to-end .NET features: KYC verification workflows, deposit/withdrawal approval pipelines, 
+role-specific dashboards, CSV/Excel exports, and email/SMS notification systems. 
 
+• Built React.js front-ends integrated with .NET Web APIs, enabling full feature ownership from API design to 
+UI delivery. 
+• Deployed and configured .NET applications on IIS with proper environment management and logging. 
+• Conducted code reviews and mentored junior developers on .NET best practices, SOLID principles, and 
+clean architecture. 
+KEY PROJECTS 
+ 
+Oron Payments – Digital Payment & Wallet Platform Sep 2025 – Present 
+Live: https://payments.orontrade.com 
+• Live fintech platform for wallet management and payment processing. Built secure Web APIs using 
+ASP.NET Core, integrated Entity Framework for DB operations, and deployed on IIS with full transaction 
+audit logging. 
+Tech Stack: ASP.NET MVC 4.7, ASP.NET Core Web API, Entity Framework, MS SQL, JavaScript, Bootstrap 
+Oron Trade – Client Management Portal Jun 2025 – Sep 2025 
+Live: https://my.orontrade.com 
+• Enterprise client portal with KYC onboarding, deposit/withdrawal approval workflows, RBAC for 
+admin/manager/customer roles, paginated transaction history, CSV/Excel export, and JWT-secured .NET 
+APIs. 
+Tech Stack: ASP.NET Core MVC, Web API, Entity Framework, MS SQL, Bootstrap 
+Uniteam – AI-Powered Task Management May 2024 – Jun 2025 
+Live: https://uniteam.ai 
+• Enterprise SaaS with .NET Core REST APIs powering AI-assisted task creation, meeting scheduling, end-
+to-end encryption, and AWS-hosted deployment. React.js frontend consumes .NET APIs. 
+Tech Stack: ASP.NET Core Web API, MS SQL, React.js, AWS 
+Workpod – Human Capital Management 360° Confidential (US Client) 
+Live: https://hiringglass.com 
+• Enterprise HCM platform for a US client. Built ASP.NET Core MVC frontend and Web API backend to 
+manage multi-company workforce lifecycle — recruiting, onboarding, performance management, and client 
+portals. 
+Tech Stack: ASP.NET Core MVC, ASP.NET Core Web API, MS SQL 
+Learnet – Professional Learning Network Oct 2022 – Feb 2023 
+Live: https://learnet.ai 
+• Mentor-learner booking platform. Built .NET Core backend APIs for session booking, flexible pricing, and 
+Zoom API integration. React.js frontend for mentor and learner dashboards. 
+Tech Stack: ASP.NET Core Web API, MySQL, React.js, Bootstrap 
+EDUCATION 
+ 
+B.Tech – Computer Science Engineering Jun 2019 – May 2023 
+Radharaman Institute of Technology and Science, Bhopal  |  CGPA: 8.69 / 10

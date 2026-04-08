@@ -1,15 +1,17 @@
-import type React from "react"
 import type { Metadata } from "next"
-import { Inter } from "next/font/google"
 import "./globals.css"
-import { ThemeProvider } from "next-themes"
-
-const inter = Inter({ subsets: ["latin"] })
+import { Providers } from "./providers"
 
 export const metadata: Metadata = {
-  title: "Rakesh Kumar - Full Stack Developer",
-  description: "Portfolio of Rakesh Kumar, a Full Stack Developer with expertise in MERN stack, .NET Core, and more.",
-    generator: 'v0.dev'
+  title: "Rakesh Kumar - .NET Developer & ASP.NET Core Expert | Portfolio",
+  description: "Experienced .NET Developer with 3.5+ years building enterprise web applications using ASP.NET Core, Web API, React.js, and MS SQL. Specialized in fintech, healthcare, and SaaS solutions.",
+  keywords: ".NET Developer, ASP.NET Core, Web API, React.js, MS SQL, Full Stack Developer, Enterprise Applications",
+  openGraph: {
+    title: "Rakesh Kumar - .NET Developer & Enterprise Solutions Expert",
+    description: "Explore my portfolio of enterprise-grade .NET applications, RESTful APIs, and scalable web solutions.",
+    type: "website",
+  },
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
@@ -19,15 +21,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={inter.className}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          {children}
-        </ThemeProvider>
+      <body>
+        <Providers>{children}</Providers>
       </body>
     </html>
   )
 }
-
-
-
-import './globals.css'

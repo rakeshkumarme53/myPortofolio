@@ -43,4 +43,3 @@ export default function MobileNav({ activeSection }: { activeSection: string }) 
     </div>
   )
 }
-

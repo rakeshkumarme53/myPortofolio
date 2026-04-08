@@ -1,21 +1,9 @@
 const educationData = [
   {
-    degree: "B Tech (Computer Science Engineering)",
-    institution: "Radharaman Institute of Technology and Science Bhopal",
-    year: "June 2019 to May 2023",
-    result: "8.69 CGPA",
-  },
-  {
-    degree: "12th (Math's)",
-    institution: "SN Sinha College Aurangabad",
-    year: "2018",
-    result: "64.2%",
-  },
-  {
-    degree: "10th (CBSE)",
-    institution: "BL Indo Anglian Public School Aurangabad",
-    year: "2016",
-    result: "10 CGPA",
+    degree: "B.Tech – Computer Science Engineering",
+    institution: "Radharaman Institute of Technology & Science, Bhopal",
+    year: "2019 – 2023",
+    result: "CGPA: 8.69",
   },
 ]
 
@@ -38,4 +26,3 @@ export default function Education() {
     </section>
   )
 }
-
